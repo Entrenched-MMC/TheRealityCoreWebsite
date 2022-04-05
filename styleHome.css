@@ -5,6 +5,10 @@ html {
   background-color: #db924d;
 }
 
+#grad {
+  background-image: linear-gradient(45deg, #c47743, #996d50);
+}
+
 .wrapper {
 }
 
