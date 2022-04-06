@@ -10,7 +10,7 @@ html {
   left-margin: 200px;
   height: 100px;
   text-align: center;
-  border-width: 5px;
+  border-width: 2px 2px;
   border-color: #000000;
   border-style: solid;
 }
@@ -27,8 +27,8 @@ html {
 .under-header {
   font-size: 15px;
   border-width: 3px;
-  border-color: #333333;
-  border-style: groove;
+  border-color: #262626;
+  border-style: double;
   text-align: center;
 }
 
@@ -43,9 +43,6 @@ html {
 .body {
   left-margin: 250px;
   background-image: linear-gradient(#874c2799, #f07f3a99);
-  border-width: 3px;
-  border-color: #333333;
-  border-style: groove;
   padding: 5px;
 }
 
