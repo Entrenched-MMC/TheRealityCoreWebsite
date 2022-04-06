@@ -1,14 +1,14 @@
 function display(id, btn) {
   var dropper = document.getElementById(id);
-  var displaySetting = id.style.display;
-  var btn = document.getElementById(btn);
+  var displaySetting = dropper.style.display;
+  var dropper-btn = document.getElementById(btn);
   
   if(displaySetting == 'block') {
     var displaySetting = 'none';
-    var btn.innerHTML = 'Hide Dropdown';
+    var dropper-btn.innerHTML = 'Hide Dropdown';
   }
-  else(displaySetting == 'none') {
+  else {
     var displaySetting = 'block';
-    var btn.innerHTML = 'Other Links/Sub-Pages';
+    var dropper-btn.innerHTML = 'Other Links/Sub-Pages';
   }
 }
