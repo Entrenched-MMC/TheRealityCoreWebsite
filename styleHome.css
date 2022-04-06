@@ -25,11 +25,13 @@ html {
 }
 
 .extra-nav {
-  background-image: linear-gradient(180deg, #82662e, #cf982b22);
-  background-image: linear-gradient(180deg, #cf982b22, #82662e);
+  background-image: linear-gradient(180deg, #82662e, #cf982b);
+  float: right;
+  width: 200px;
 }
 
 .under-header {
+  padding-right: 200px;
   font-size: 15px;
   border-width: 3px;
   border-color: #262626;
