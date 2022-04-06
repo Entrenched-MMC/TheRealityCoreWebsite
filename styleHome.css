@@ -10,8 +10,9 @@ html {
   left-margin: 200px;
   height: 100px;
   text-align: center;
-  border: 7px;
+  border-width: 5px;
   border-color: #000000;
+  border-style: solid;
 }
 
 #logo {
@@ -25,8 +26,9 @@ html {
 
 .under-header {
   font-size: 15px;
-  border: 5px;
+  border-width: 3px;
   border-color: #333333;
+  border-style: groove;
   text-align: center;
 }
 
@@ -41,8 +43,9 @@ html {
 .body {
   left-margin: 250px;
   background-image: linear-gradient(#874c2799, #f07f3a99);
-  border: 5px;
+  border-width: 3px;
   border-color: #333333;
+  border-style: groove;
   padding: 5px;
 }
 
@@ -52,11 +55,12 @@ html {
 
 .footer {
   background-image: linear-gradient(#804f30, #c97d4d);
-  border: 5px;
+  border-width: 3px;
   border-color: #333333;
   padding: 5px;
+  border-top-style: double;
 }
 
-.footer h3 h4 {
+.footer h3 h4 a {
   text-align: center;
 }
