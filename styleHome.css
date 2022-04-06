@@ -21,9 +21,8 @@ html {
   float: left;
 }
 
-.side-body {
-  float: left;
-  font-size: 10px;
+.under-header {
+  font-size: 15px;
 }
 
 .side-body a {
