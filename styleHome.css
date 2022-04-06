@@ -27,7 +27,8 @@ html {
 }
 
 .side-body a {
-  color: #666666;
+  color: #bgbgbg;
+  background-color: #262626;
 }
 
 .body {
