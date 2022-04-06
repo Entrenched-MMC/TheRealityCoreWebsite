@@ -8,6 +8,7 @@ html {
 .rcHeader {
   background-color: #ab4e3299;
   left-margin: 200px;
+  height: 100px;
 }
 
 #logo {
