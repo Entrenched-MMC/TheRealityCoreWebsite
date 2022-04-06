@@ -27,6 +27,7 @@ html {
   font-size: 15px;
   border: 5px;
   border-color: #333333;
+  text-align: center;
 }
 
 .under-header a {
@@ -42,6 +43,7 @@ html {
   background-image: linear-gradient(#874c2799, #f07f3a99);
   border: 5px;
   border-color: #333333;
+  padding: 5px;
 }
 
 .body h2 h3 {
@@ -52,4 +54,9 @@ html {
   background-image: linear-gradient(#804f30, #c97d4d);
   border: 5px;
   border-color: #333333;
+  padding: 5px;
+}
+
+.footer h3 h4 {
+  text-align: center;
 }
