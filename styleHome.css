@@ -16,6 +16,7 @@ html {
 }
 
 #logo {
+  float: left;
   height: 100px;
   width: 75px;
 }
