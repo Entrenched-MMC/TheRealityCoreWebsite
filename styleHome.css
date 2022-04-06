@@ -28,7 +28,7 @@ html {
   font-size: 15px;
   border-width: 3px;
   border-color: #262626;
-  border-style: double;
+  border-bottom-style: double;
   text-align: center;
 }
 
