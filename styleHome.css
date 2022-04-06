@@ -10,6 +10,8 @@ html {
   left-margin: 200px;
   height: 100px;
   text-align: center;
+  border: 5px;
+  border-color: #333333;
 }
 
 #logo {
@@ -23,19 +25,23 @@ html {
 
 .under-header {
   font-size: 15px;
+  border: 5px;
+  border-color: #333333;
 }
 
-.side-body a {
+.under-header a {
   background-color: #c7845a99;
 }
 
-.side-body h2 h3 {
+.under-header h2 h3 {
   text-align: center;
 }
 
 .body {
   left-margin: 250px;
   background-image: linear-gradient(#874c2799, #f07f3a99);
+  border: 5px;
+  border-color: #333333;
 }
 
 .body h2 h3 {
@@ -44,4 +50,6 @@ html {
 
 .footer {
   background-image: linear-gradient(#804f30, #c97d4d);
+  border: 5px;
+  border-color: #333333;
 }
