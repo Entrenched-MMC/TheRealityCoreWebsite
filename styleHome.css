@@ -24,6 +24,11 @@ html {
   float: left;
 }
 
+.extra-nav {
+  background-image: linear-gradient(90deg, #82662e, #cf982b22);
+  background-image: linear-gradient(90deg, #cf982b22, #82662e);
+}
+
 .under-header {
   font-size: 15px;
   border-width: 3px;
