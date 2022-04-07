@@ -19,10 +19,7 @@ html {
   float: left;
   height: 100px;
   width: 75px;
-}
-
-.logo {
-  float: left;
+  float: left
 }
 
 .nav {
@@ -38,10 +35,13 @@ html {
   background-color: #c7845a99;
 }
 
-.body {
-  left-margin: 250px;
+.bodies {
   background-image: linear-gradient(#874c2799, #f07f3a99);
   padding: 5px;
+}
+
+.mainBody {
+  left-margin: 250px;
 }
 
 .body h2 h3 {
